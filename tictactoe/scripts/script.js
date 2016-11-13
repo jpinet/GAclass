@@ -94,9 +94,7 @@ $(function(){
 				game.scoreO += 1;
 				$('#player-o').html("Player O: " + game.scoreO);
 			}
-		} else if(){
-
-		}
+		} 
 	}
 
 });
